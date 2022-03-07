@@ -1,5 +1,5 @@
 # Brain-Tumor-Detection
-The project idea was to reproduce and improve a [Paper](https://ieeexplore.ieee.org/abstract/document/8934561) result which makes Brain tumor detection using CNN (Convolutional Neural Network) on MRI images.
+The idea of the project was to reproduce and improve the result of a [scientific publication](https://ieeexplore.ieee.org/abstract/document/8934561) on Brain tumor detection using CNN (Convolutional Neural Network) with MRI images.
 
 # Fluxogram of the Process Presented
 ![Fluxogram image](https://user-images.githubusercontent.com/49374221/154573946-a21cb310-b1ca-4f07-8597-57f929b77439.png)
@@ -27,8 +27,9 @@ The database contains 4600 different images, with various sizes and shapes taken
 ## Unhealthy
 ![MriImages](https://user-images.githubusercontent.com/49374221/154584440-760db88e-87e9-4054-89c6-46702bea4b73.png)
 
-# Plots
-2 Plots comparing 1º accuracy x validation accuracy, per epoch and 2º comparing de loss x validation loss per epoch.
+# Results
+1º Plot accuracy x validation accuracy (per epoch)
+2º Plot comparing de loss x validation loss (per epoch).
 
 ![AccuracyPlot](https://user-images.githubusercontent.com/49374221/154586311-3aedeee2-0759-4c55-82be-e63c39d926df.jpg) ![loss plot](https://user-images.githubusercontent.com/49374221/154586652-2cb0fe36-5066-4288-a4e3-068d99d92000.jpg)
 

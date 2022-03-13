@@ -28,10 +28,11 @@ The database contains 4600 different images, with various sizes and shapes taken
 ![MriImages](https://user-images.githubusercontent.com/49374221/154584440-760db88e-87e9-4054-89c6-46702bea4b73.png)
 
 # Results
-1º Plot accuracy x validation accuracy (per epoch)
-2º Plot comparing de loss x validation loss (per epoch).
 
-![AccuracyPlot](https://user-images.githubusercontent.com/49374221/154586311-3aedeee2-0759-4c55-82be-e63c39d926df.jpg) ![loss plot](https://user-images.githubusercontent.com/49374221/154586652-2cb0fe36-5066-4288-a4e3-068d99d92000.jpg)
+### 1º Plot accuracy x accuracy on validadion dataset (per epoch)
+![AccuracyPlot](https://user-images.githubusercontent.com/49374221/154586311-3aedeee2-0759-4c55-82be-e63c39d926df.jpg)
+### 2º Plot comparing de loss x loss on validadion dataset (per epoch).
+![loss plot](https://user-images.githubusercontent.com/49374221/154586652-2cb0fe36-5066-4288-a4e3-068d99d92000.jpg)
 
 
 

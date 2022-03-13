@@ -29,9 +29,9 @@ The database contains 4600 different images, with various sizes and shapes taken
 
 # Results
 
-### 1º Plot accuracy x accuracy on validadion dataset (per epoch)
+### Comparing the accuracy in the training dataset with the accuracy in the validation dataset
 ![AccuracyPlot](https://user-images.githubusercontent.com/49374221/154586311-3aedeee2-0759-4c55-82be-e63c39d926df.jpg)
-### 2º Plot comparing de loss x loss on validadion dataset (per epoch).
+### Comparing the loss in the training dataset with the loss in the validation dataset
 ![loss plot](https://user-images.githubusercontent.com/49374221/154586652-2cb0fe36-5066-4288-a4e3-068d99d92000.jpg)
 
 
